@@ -87,3 +87,20 @@ footer {
 */
 
 /* Write your CSS here */
+
+Main p:first-child::first-Letter {
+  color: #f2f2f2;
+  background-color: #666;
+  margin: 0;
+  padding: 0.5em;
+  float:left
+}
+
+img {
+  padding: 0.5em;
+}
+
+figcaption {
+  font-style: italic;
+  font-size: .675rem;
+}
